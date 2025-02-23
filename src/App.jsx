@@ -9,6 +9,7 @@ function App() {
 	return (
 		<>
 			<p className="read-the-docs">Git Actions On Firebase Again</p>
+			<p className="read-the-docs">Can Now Deploy Using Git Actions </p>
 		</>
 	);
 }
