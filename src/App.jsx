@@ -8,7 +8,7 @@ function App() {
 
 	return (
 		<>
-			<p className="read-the-docs">Git Actions</p>
+			<p className="read-the-docs">Git Actions On Git Hub</p>
 		</>
 	);
 }
